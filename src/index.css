@@ -1,0 +1,13 @@
+:root {
+  --warna-font: rgb(6, 6, 138);
+  background-color: gainsboro;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  padding: 0;
+}

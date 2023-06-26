@@ -1,0 +1,26 @@
+.card-img {
+    width: 13rem;
+    height: 10rem;
+}
+
+.wrapper-product {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 2rem;
+    flex-wrap: wrap;
+}
+
+.wrapper-action {
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+input, select, option{
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+}
